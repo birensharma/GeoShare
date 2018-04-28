@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "95675530820",
+    "firebase_url": "https://geoshare-f78f2.firebaseio.com",
+    "project_id": "geoshare-f78f2",
+    "storage_bucket": "geoshare-f78f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95675530820:android:5dc8258d5edb903e",
+        "android_client_info": {
+          "package_name": "com.sharing.files.geoshare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95675530820-a7kpdvf65mkk1ie9s4tn0fibru140480.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharing.files.geoshare.app",
+            "certificate_hash": "9ed178737f5b062a4e1fbf1f7d0d9898028423b7"
+          }
+        },
+        {
+          "client_id": "95675530820-sc6l0ui828aio7lju05r350qnmomsh6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3rGLAigyWGNp0a2TDHTJ4KhdfqM3ssCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95675530820-sc6l0ui828aio7lju05r350qnmomsh6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
